@@ -61,10 +61,10 @@ This is a simple weather application that fetches and displays weather data for 
 ## Project Structure
 
 weather-app/
-│
-├── weather_app.py # Main script for the weather application
-├── weather_data.csv # CSV file to store weather data (created after running the script)
-└── README.md # This README file
+   │
+   ├── weather_app.py # Main script for the weather application
+   ├── weather_data.csv # CSV file to store weather data (created after running the script)
+   └── README.md # This README file
 
 
 
