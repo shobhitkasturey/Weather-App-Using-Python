@@ -108,4 +108,6 @@ Condition: Clear sky
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss changes.
 
-=
+## Contact
+
+Please feel free to reach out to me for further suggestions via shobhitkasturey@gmail.com
